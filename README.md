@@ -111,11 +111,10 @@ pipline/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/youssefeldawey0/Customer-Segmentation-Marketing-Analytics-ML-project.git
-cd YOUR-REPOSITORY
+git clone https://github.com/youssefeldawey0/Marketing-Campaign-ML-Pipeline/commits/main/
+
 ```
 
-Replace the URL and repository directory with your own GitHub repository details.
 
 ### 2. Create a virtual environment
 
